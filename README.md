@@ -150,10 +150,8 @@ The following outputs were generated:
 
 | Model       | Training Accuracy | Validation Accuracy |
 | ----------- | ----------------- | ------------------- |
-| CNN         | XX.XX%            | XX.XX%              |
-| MobileNetV2 | XX.XX%            | XX.XX%              |
-
-*(Replace XX.XX with your actual results.)*
+| CNN         | 0.9322            |0.9564               |
+| MobileNetV2 | 0.8870            |0.2149               |
 
 ---
 

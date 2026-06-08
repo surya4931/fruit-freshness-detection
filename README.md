@@ -237,24 +237,4 @@ Fruit-Freshness-Detection/
 * Mobile application deployment
 * Explainable AI using Grad-CAM
 
----
 
-##  Author
-
-**Your Name**
-
-Machine Learning Project – Phase II
-
-Department of Computer Science / Artificial Intelligence
-
-Academic Year: 2025–2026
-
----
-
-##  References
-
-1. TensorFlow Documentation
-2. Keras Documentation
-3. MobileNetV2 Research Paper
-4. Kaggle Dataset
-5. Deep Learning for Computer Vision Literature
